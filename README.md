@@ -13,6 +13,6 @@ VERCEL PROCESS:
     4: Enter project name, env variables.
     5: And JUST CLICK "Deploy". 
 ```
-***Here's an Example [`OUTPUT`](https://venocyber-digital-clock-kappa.vercel.app).***
+***Here's an Example [`OUTPUT`](https://venocyber-digital-clock.vercel.app/).***
 
 ---
